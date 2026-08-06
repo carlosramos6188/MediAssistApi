@@ -1,0 +1,6 @@
+@MediAssistApi_HostAddress = http://localhost:5231
+
+GET {{MediAssistApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

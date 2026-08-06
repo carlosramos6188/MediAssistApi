@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Base de datos SQLite (opcional)
+*.db-shm
+*.db-wal
+
+# Archivos de configuración local
+appsettings.Development.json
