@@ -1,5 +1,10 @@
 # 🏥 MediAssist API
 
+
+# Prueba de imagen
+
+![Prueba](Documentacion/IA/01_IA_Analizar_Valido.png)
+
 <div align="center">
 
 # Sistema de Gestión Médica con Inteligencia Artificial
@@ -331,6 +336,7 @@ Swagger permite probar todos los endpoints desde el navegador.
 # 👨‍💻 Autor
 
 **Carlos Andrés Ramos Peña**
+**Luis Felipe Silvera Valega**
 
 **Ingeniería de Sistemas**
 
