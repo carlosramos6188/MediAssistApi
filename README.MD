@@ -1,10 +1,5 @@
 # 🏥 MediAssist API
 
-
-# Prueba de imagen
-
-![Prueba](Documentacion/IA/01_IA_Analizar_Valido.png)
-
 <div align="center">
 
 # Sistema de Gestión Médica con Inteligencia Artificial
