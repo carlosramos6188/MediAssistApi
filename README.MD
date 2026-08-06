@@ -290,13 +290,6 @@ Swagger permite probar todos los endpoints desde el navegador.
 
 ![Crear Paciente](Documentacion/Pacientes/01_POST_Paciente_Valido.png)
 
----
-
-### Consultar pacientes
-
-![Consultar Pacientes](Documentacion/Pacientes/03_GET_Pacientes.png)
-
----
 
 ## 👨‍⚕️ Médicos
 
