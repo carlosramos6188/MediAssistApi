@@ -1,4 +1,4 @@
-# 🏥 MediAssist API
+# MediAssist API
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Analiza síntomas escritos en lenguaje natural y recomienda una especialidad mé
 
 ---
 
-# 📖 Tabla de Contenido
+# Tabla de Contenido
 
 - Descripción
 - Objetivos
@@ -37,7 +37,7 @@ Analiza síntomas escritos en lenguaje natural y recomienda una especialidad mé
 
 ---
 
-# 📌 Descripción
+# Descripción
 
 **MediAssist API** es una API REST desarrollada en ASP.NET Core 8 que permite administrar información de pacientes, médicos y especialidades médicas.
 
@@ -54,7 +54,7 @@ Toda la información generada por la IA queda almacenada en la base de datos par
 
 ---
 
-# 🎯 Objetivos
+# Objetivos
 
 - Implementar una API REST moderna.
 - Aplicar Entity Framework Core.
@@ -65,7 +65,7 @@ Toda la información generada por la IA queda almacenada en la base de datos par
 
 ---
 
-# 🛠 Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 | Tecnología | Uso |
 |------------|-----|
@@ -80,7 +80,7 @@ Toda la información generada por la IA queda almacenada en la base de datos par
 
 ---
 
-# 🏗 Arquitectura
+# Arquitectura
 
 ```text
                 Cliente
@@ -112,9 +112,9 @@ Toda la información generada por la IA queda almacenada en la base de datos par
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
-## 👤 Pacientes
+## Pacientes
 
 - Crear paciente
 - Consultar pacientes
@@ -124,7 +124,7 @@ Toda la información generada por la IA queda almacenada en la base de datos par
 
 ---
 
-## 👨‍⚕️ Médicos
+## Médicos
 
 - Crear médico
 - Consultar médicos
@@ -135,13 +135,13 @@ Incluye validación para verificar que la especialidad exista.
 
 ---
 
-## 🩺 Especialidades
+## Especialidades
 
 - CRUD completo
 
 ---
 
-## 🤖 Inteligencia Artificial
+## Inteligencia Artificial
 
 La IA permite:
 
@@ -153,7 +153,7 @@ La IA permite:
 
 ---
 
-# 🗄 Base de Datos
+# Base de Datos
 
 La aplicación utiliza SQLite.
 
@@ -168,7 +168,7 @@ Las migraciones son administradas mediante Entity Framework Core.
 
 ---
 
-# 📡 Endpoints
+# Endpoints
 
 ## Pacientes
 
@@ -215,7 +215,7 @@ Las migraciones son administradas mediante Entity Framework Core.
 
 ---
 
-# 🤖 Integración con IA
+# Integración con IA
 
 El servicio utiliza la API de **Groq** para analizar síntomas escritos por el usuario.
 
@@ -242,7 +242,7 @@ Cada análisis queda registrado automáticamente en la tabla **AnalisisIA**.
 
 ---
 
-# ⚙ Instalación
+# Instalación
 
 ## Clonar el repositorio
 
@@ -270,7 +270,7 @@ dotnet run
 
 ---
 
-# 📚 Documentación
+# Documentación
 
 Una vez iniciada la aplicación:
 
@@ -282,16 +282,16 @@ Swagger permite probar todos los endpoints desde el navegador.
 
 ---
 
-# 📸 Evidencias de funcionamiento
+# Evidencias de funcionamiento
 
-## 👤 Pacientes
+## Pacientes
 
 ### Crear paciente
 
 ![Crear Paciente](Documentacion/Pacientes/01_POST_Paciente_Valido.png)
 
 
-## 👨‍⚕️ Médicos
+## Médicos
 
 ### Crear médico
 
@@ -299,7 +299,7 @@ Swagger permite probar todos los endpoints desde el navegador.
 
 ---
 
-## 🩺 Especialidades
+## Especialidades
 
 ### Crear especialidad
 
@@ -307,7 +307,7 @@ Swagger permite probar todos los endpoints desde el navegador.
 
 ---
 
-## 🤖 Inteligencia Artificial
+## Inteligencia Artificial
 
 ### Análisis de síntomas
 
@@ -321,7 +321,7 @@ Swagger permite probar todos los endpoints desde el navegador.
 
 ---
 
-# 👨‍💻 Autor
+# Autor
 
 **Carlos Andrés Ramos Peña**
 
@@ -333,10 +333,10 @@ Proyecto desarrollado como evidencia académica para el **Diplomado en Programac
 
 GitHub:
 
-👉 https://github.com/carlosramos6188/MediAssistApi
+https://github.com/carlosramos6188/MediAssistApi
 
 ---
 
-# ⭐ Gracias por visitar este proyecto.
+# Gracias por visitar este proyecto.
 
 Si este proyecto te resulta útil, puedes dejar una ⭐ en el repositorio.
